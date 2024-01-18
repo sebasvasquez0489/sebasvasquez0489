@@ -1,9 +1,21 @@
 <h1 align="center">Hola 👋, soy Sebastián Vásquez Valencia</h1>
-<h3 align="center">Soy un apasionado por la programación enfocado en la parte del frontend, llevo aproximadamente un año estudiando de forma autodidacta en Platzi logrando aprender y obtener varias certificaciones en las tecnologías HTML, CSS y JAVASCRIPT. En la actualidad estoy iniciando a comprender todo el entorno manejado con REACT JS.</h3>
+¡Bienvenido a mi perfil de GitHub!  
+<h3 align="center">
+  Soy un desarrollador frontend junior apasionado por la creación de experiencias web atractivas y funcionales. Llevo aproximadamente un año estudiando de forma autodidacta en Platzi 
+  logrando aprender y obtener varias certificaciones en las tecnologías HTML, CSS y JAVASCRIPT. En la actualidad estoy iniciando a comprender todo el entorno manejado con REACT JS.
+  Aquí encontrarás una variedad de proyectos que he realizado. ¡Echa un vistazo y no dudes en contactarme!
+  </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-tropic" ><img src="https://github-profile-tropico.vercel.app/?username=sebasvasquez0489" alt="sebasvasquez0489" /></a> </p>
+  ## Habilidades
 
-- 🌱 Actualmente estoy aprendiendo **Framework React Js**
+- **Lenguajes de Programación:** HTML, CSS, JavaScript
+- **Librerías y Frameworks:** React.js
+- **Herramientas y Entorno:** Git, VSCode, npm.
+
+   ## Colaboración y Contribuciones
+
+ Estoy interesado en colaborar en proyectos de código abierto y aprender de la comunidad. Si tienes algún proyecto interesante o necesitas ayuda, ¡no dudes en contactarme!
+ ¡Gracias por visitar mi perfi
 
 - 📫 Cómo contactarme **sebitas0489@gmail.com**
 
