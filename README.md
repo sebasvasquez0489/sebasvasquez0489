@@ -1,9 +1,14 @@
-<h1 align="center">Hola 👋, soy Sebastián Vásquez Valencia</h1>
-¡Bienvenido a mi perfil de GitHub!  
+<h1 align="center">Hola 👋, soy Sebastian Vásquez Valencia</h1>
 
+¡Bienvenido a mi perfil de GitHub! <br>
 
-Soy un desarrollador en formación con una gran pasión por la tecnología, el aprendizaje constante y el desarrollo de soluciones innovadoras. Actualmente me encuentro finalizando el 6º trimestre de la Tecnología en Análisis y Desarrollo de Software, y estoy construyendo los cimientos de mi carrera como desarrollador con compromiso, curiosidad y muchas ganas de sobresalir en la industria.<br><br>🔧 Mis conocimientos incluyen:<br><br>Frontend: HTML5, CSS3, JavaScript y React.<br><br>Bases de datos: Nociones en sistemas relacionales (como SQL Server) y no relacionales (como MongoDB).<br><br>Familiarizado con herramientas modernas y buenas prácticas en desarrollo web.<br><br>🎯 Mi objetivo profesional es formar parte de un equipo de desarrollo donde pueda seguir aprendiendo, aportar valor, y crecer tanto personal como profesionalmente. Me entusiasma la idea de participar en proyectos reales, enfrentar nuevos retos y contribuir con ideas frescas y actitud proactiva.<br><br>💬 Soy una persona autodidacta, enfocada, con alto sentido de responsabilidad y siempre dispuesta a sumar. Cada línea de código que escribo es un paso más hacia mi meta: convertirme en un desarrollador destacado y valioso dentro de la industria tecnológica.<br><br>¿Te interesa colaborar o tienes un proyecto en mente? ¡Estoy listo para asumir el reto!
+¡Hola! Soy un desarrollador en formación con una fuerte pasión por la tecnología, el aprendizaje continuo y la creación de soluciones prácticas que generen impacto.
 
+Actualmente estoy finalizando el sexto trimestre de la Tecnología en Análisis y Desarrollo de Software, donde he desarrollado una base sólida en lógica de programación, desarrollo web y bases de datos. Paralelamente, llevo más de un año impulsando mi formación de manera autodidacta, principalmente a través de la plataforma Platzi, donde he obtenido múltiples certificaciones que respaldan mi constancia, disciplina y deseo de crecer profesionalmente.
+
+Tengo conocimientos en HTML5, CSS3, JavaScript y React, así como nociones en bases de datos relacionales y no relacionales. Me entusiasma la idea de participar en proyectos reales, aprender de otros profesionales, aportar con actitud proactiva y dar mis primeros pasos en la industria tecnológica.
+
+Soy una persona comprometida, curiosa y orientada al aprendizaje constante. Cada línea de código que escribo representa un paso más hacia mi meta: convertirme en un desarrollador integral y valioso para cualquier equipo de trabajo.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-vásquez-valencia-895556263) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sebitas0489@gmail.com) 
