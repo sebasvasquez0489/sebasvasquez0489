@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Sebastián Vásquez Valencia</h1>
 ¡Bienvenido a mi perfil de GitHub!  
-# 💫 About Me:
+
 ¡Hola! Soy un desarrollador en formación con una gran pasión por la tecnología, el aprendizaje constante y el desarrollo de soluciones innovadoras. Actualmente me encuentro finalizando el 6º trimestre de la Tecnología en Análisis y Desarrollo de Software, y estoy construyendo los cimientos de mi carrera como desarrollador con compromiso, curiosidad y muchas ganas de sobresalir en la industria.<br><br>🔧 Mis conocimientos incluyen:<br><br>Frontend: HTML5, CSS3, JavaScript y React.<br><br>Bases de datos: Nociones en sistemas relacionales (como SQL Server) y no relacionales (como MongoDB).<br><br>Familiarizado con herramientas modernas y buenas prácticas en desarrollo web.<br><br>🎯 Mi objetivo profesional es formar parte de un equipo de desarrollo donde pueda seguir aprendiendo, aportar valor, y crecer tanto personal como profesionalmente. Me entusiasma la idea de participar en proyectos reales, enfrentar nuevos retos y contribuir con ideas frescas y actitud proactiva.<br><br>💬 Soy una persona autodidacta, enfocada, con alto sentido de responsabilidad y siempre dispuesta a sumar. Cada línea de código que escribo es un paso más hacia mi meta: convertirme en un desarrollador destacado y valioso dentro de la industria tecnológica.<br><br>¿Te interesa colaborar o tienes un proyecto en mente? ¡Estoy listo para asumir el reto!
 
 
